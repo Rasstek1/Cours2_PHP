@@ -28,7 +28,7 @@
 <body>
 
 
-<!-- Utilisation du bouton stylisé avec le lien vers votre page PHP -->
+<!-- Utilisation du bouton stylisé avec le lien vers votre page PHP ! -->
 <a href="Index.php" class="button">Aller vers la page Index</a>
 
 </body>
